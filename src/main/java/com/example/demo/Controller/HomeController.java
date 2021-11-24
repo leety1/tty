@@ -1,4 +1,4 @@
-package com.example.demo.web;
+package com.example.demo.Controller;
 
 import org.springframework.boot.context.properties.ConfigurationProperties;
 import org.springframework.stereotype.Controller;
